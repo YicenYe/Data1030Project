@@ -14,9 +14,15 @@ Environment Setup
 This project uses Python 3.12 and the following key packages:
 
 Pandas: 2.0.3
+
 NumPy: 1.25.2
+
 Matplotlib: 3.7.1
+
 Seaborn: 0.12.2
+
 Scikit-learn: 1.3.0
+
 XGBoost: 2.0.0
+
 SHAP: 0.41.0
